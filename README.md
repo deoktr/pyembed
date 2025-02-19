@@ -1,6 +1,6 @@
 # PyEmbed
 
-Generated embeded Python script into C source.
+Generate embeded Python script into C source.
 
 ## Usage
 
